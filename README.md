@@ -19,6 +19,9 @@
 ---
 
 ## Overview
+These are just fun things I enjoy doing in my free time. I like math and I am a math nerd so these things are pretty interesting to me. Anyway, hopefully this makes sense.
+
+![artworks-fR5dBX2q6nPHhmY2-FHAs3w-t500x500](https://github.com/user-attachments/assets/62a07ad9-bfbb-4ff2-8c31-40e74c7e2247)
 
 The **arithmetic derivative** $D(n)$ extends the Leibniz product rule to the integers:
 
